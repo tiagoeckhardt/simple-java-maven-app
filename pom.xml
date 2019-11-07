@@ -35,3 +35,13 @@
     </plugins>
   </build>
 </project>
+<repository>
+  <id>dev-azure-com-tiagoeckhardt-testing</id>
+  <url>https://pkgs.dev.azure.com/tiagoeckhardt/_packaging/testing/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
